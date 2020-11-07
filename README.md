@@ -18,8 +18,11 @@ Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ###  `npm install @material-ui/core`
-
 intsall this library and use component your project
+
+###  `@progress/kendo-react-pdf`
+add this library and and download pdf file in your compouter.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
